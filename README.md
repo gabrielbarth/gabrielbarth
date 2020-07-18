@@ -1,16 +1,16 @@
-### Hi there 👋
+[![Linkedin Badge](https://img.shields.io/badge/-gabrielbarth-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-barth-silv%C3%A9rio-6081ba153/)](https://www.linkedin.com/in/gabriel-barth-silv%C3%A9rio-6081ba153/)
+[![Gmail Badge](https://img.shields.io/badge/-gabrielbarth.dev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabrielbarth.dev@gmail.com)](mailto:gabrielbarth.dev@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/gb1.dev/)
+[![gabrielbarth.com](https://img.shields.io/static/v1?label=Portifolio%20-%20gabrielbarth.com&message=%20&color=black&style=flat-square&logoColor=white)](http://gabrielbarth.com)
 
-<!--
-**gabrielbarth/gabrielbarth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋, welcome to my Github repo :grin:
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning Javascript: React Native, ReactJS and Nodejs :iphone: :computer:
+- 👯 I’m looking to collaborate on javascript community.
+- 💬 Ask me about personal growth, investments and, of course, application development :relaxed:.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Please, feel free to reach out me through any social media above.
+
+#### "Stay hungry, stay foolish". :rocket:
+
+
