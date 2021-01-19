@@ -8,7 +8,7 @@
 
 - :seedling: I’m currently learning Javascript and .Net Frameworks and technologies :iphone: :computer:
 <!--- - :sun_with_face: I’m looking to collaborate on javascript community. -->
-- :speech_balloon: Ask me about personal growth, investments and, of course, application development :relaxed:.
+- :speech_balloon: Ask me about personal growth and application development :relaxed:.
 - :mailbox: Please, feel free to reach out me through any social media above.
 
 
