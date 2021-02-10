@@ -6,7 +6,7 @@
 
 ### Hi there 👋, welcome to my Github repo :grin:
 
-- :seedling: I’m currently learning Javascript and .Net Frameworks and technologies :iphone: :computer:
+- :seedling: I’m currently learning Javascript and .Net technologies :iphone: :computer:
 <!--- - :sun_with_face: I’m looking to collaborate on javascript community. -->
 - :speech_balloon: Ask me about personal growth and application development :relaxed:.
 - :mailbox: Please, feel free to reach out me through any social media above.
