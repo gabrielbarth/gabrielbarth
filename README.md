@@ -4,7 +4,7 @@
 [![Youtube](https://img.shields.io/badge/-Youtube-c14438?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/channel/UCmA_19d5L3WTFdDfwQ6Uenw)](https://www.youtube.com/channel/UCmA_19d5L3WTFdDfwQ6Uenw)
 [![gabrielbarth.com](https://img.shields.io/static/v1?label=Portifolio%20-%20gabrielbarth.com&message=%20&color=black&style=flat-square&logoColor=white)](http://gabrielbarth.com)
 
-### Hi there 👋, welcome to my Github repo :grin:
+### Hi there 👋, welcome to my GitHub repo
 
 - :seedling: I’m always looking for learning about that technologies: **React Native, ReactJS, NextJS, Node.js and C# .net**;
 
