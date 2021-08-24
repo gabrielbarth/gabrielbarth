@@ -6,13 +6,17 @@
 
 ### Hi there 👋, welcome to my Github repo :grin:
 
-- :seedling: I’m currently learning Javascript and .Net technologies :iphone: :computer:
-<!--- - :sun_with_face: I’m looking to collaborate on javascript community. -->
-- :speech_balloon: Ask me about personal growth and application development :relaxed:.
+- :seedling: I’m always looking for learning about that technologies: **React Native, ReactJS, NextJS, Node.js and C# .net**;
+
+- :iphone: I have a deep interest in learning how to create scalable things that have a great UX/UI;
+  
 - :mailbox: Please, feel free to reach out me through any social media above.
 
+![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielbarth&count_private=true&show_icons=true&hide=contribs&theme=dracula)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielbarth&hide=Java,Ruby,Objective-C,Starlark,SCSS&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
-#### "Stay hungry, stay foolish". :rocket:
-
-
+<p align="center">
+ "Stay hungry, stay foolish". :rocket:
+</p>
