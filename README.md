@@ -6,7 +6,7 @@
 
 ### Hi there 👋, welcome to my GitHub repo
 
-- :seedling: Seeking knowledge all the time, especially about these technologies: **React Native, ReactJS, NextJS, Node.js and C# .net**;
+- :seedling: Seeking knowledge all the time, especially about Javascript ecosystem technologies, such as: **React Native, ReactJS, NextJS and Node.js**;
 
 - :iphone: I have a deep interest in learning how to create scalable things that have a great UX/UI;
   
