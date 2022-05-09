@@ -8,7 +8,9 @@
 
 - :seedling: Seeking knowledge all the time, especially about Javascript ecosystem technologies, such as: **React Native, ReactJS, NextJS and Node.js**;
 
-- :iphone: I have a deep interest in learning how to create scalable things that have a great UX/UI;
+- :iphone: Currently focused on mobile stuff, such as React Native (Typescript) and Android (Kotlin);
+
+- :rocket: I have a deep interest in learning how to create scalable things that have a great UX/UI;
   
 - :mailbox: Please, feel free to reach out me through any social media above.
 
