@@ -4,14 +4,18 @@
 [![Youtube](https://img.shields.io/badge/-Youtube-c14438?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/channel/UCmA_19d5L3WTFdDfwQ6Uenw)](https://www.youtube.com/channel/UCmA_19d5L3WTFdDfwQ6Uenw)
 [![gabrielbarth.com](https://img.shields.io/static/v1?label=Portifolio%20-%20gabrielbarth.com&message=%20&color=black&style=flat-square&logoColor=white)](http://gabrielbarth.com)
 
-### Hi there 👋, welcome to my GitHub repo
+#### Hi there 👋, welcome to my GitHub repo
 
-- :iphone: Currently focused on mobile stuff, such as React Native (Typescript) and Android (Kotlin);
-  
+- :iphone: I'm currently focused on mobile stuff, such as React Native (Typescript) and Android (Kotlin);
+ 
 - :mailbox: Please, feel free to reach out me through any social media above.
+
+
+<div align="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielbarth&hide=Java,Ruby,Objective-C,Starlark,SCSS&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-<p align="center">
+<span>
  "Stay hungry, stay foolish". :rocket:
-</p>
+ <span/>
+</div>
