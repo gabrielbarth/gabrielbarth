@@ -4,9 +4,9 @@
 [![Youtube](https://img.shields.io/badge/-Youtube-c14438?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/channel/UCmA_19d5L3WTFdDfwQ6Uenw)](https://www.youtube.com/channel/UCmA_19d5L3WTFdDfwQ6Uenw)
 [![gabrielbarth.com](https://img.shields.io/static/v1?label=Website%20-%20gabrielbarth.com&message=%20&color=black&style=flat-square&logoColor=white)](http://gabrielbarth.com)
 
-#### Hi there 👋, welcome to my GitHub repo
+#### Hi there, welcome to my GitHub 🙂
 
-- :iphone: I'm currently focused on mobile development stuff, such as React Native (Typescript), iOS (Swift) and Android (Kotlin);
+- :iphone: I'm currently focused on mobile development. Working using React Native + Typescript. Studying Swift and Kotlin.
  
 - :mailbox: Please, feel free to reach out me through any social media above.
 
